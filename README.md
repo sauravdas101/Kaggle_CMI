@@ -29,8 +29,5 @@ A physics-feature branch for engineered motion features (e.g., centripetal accel
 Merges learned embeddings with handcrafted physical features to improve generalization.
 
 Emphasis on interpretable features grounded in motion dynamics.
-.
-├── transformer_model.ipynb       # Transformer-based sequence modeling approach
-├── physics_feature_model.ipynb   # Two-branch model with physics-driven features
-├── README.md                     # This file
+
 
