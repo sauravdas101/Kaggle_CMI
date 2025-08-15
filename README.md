@@ -29,9 +29,9 @@ A physics-feature branch for engineered motion features (e.g., centripetal accel
 Merges learned embeddings with handcrafted physical features to improve generalization.
 
 Emphasis on interpretable features grounded in motion dynamics.
+The notebooks are designed to run in Kaggle environments with built-in GPU acceleration.
+If running locally, install:
 ```bash
 #!/bin/bash
 pip install numpy pandas matplotlib scikit-learn torch transformers
-
-ls -la
 
