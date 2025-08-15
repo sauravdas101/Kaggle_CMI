@@ -31,7 +31,7 @@ Merges learned embeddings with handcrafted physical features to improve generali
 Emphasis on interpretable features grounded in motion dynamics.
 ```bash
 #!/bin/bash
-echo "Hello, GitHub!"
-# Your Bash script commands go here
+pip install numpy pandas matplotlib scikit-learn torch transformers
+
 ls -la
 
