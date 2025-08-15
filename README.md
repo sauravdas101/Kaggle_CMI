@@ -29,9 +29,9 @@ A physics-feature branch for engineered motion features (e.g., centripetal accel
 Merges learned embeddings with handcrafted physical features to improve generalization.
 
 Emphasis on interpretable features grounded in motion dynamics.
-    ```bash
-    #!/bin/bash
-    echo "Hello, GitHub!"
-    # Your Bash script commands go here
-    ls -la
+```bash
+#!/bin/bash
+echo "Hello, GitHub!"
+# Your Bash script commands go here
+ls -la
 
